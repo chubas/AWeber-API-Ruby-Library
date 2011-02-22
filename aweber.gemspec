@@ -16,7 +16,6 @@ Gem::Specification.new do |s|
     "examples/with_access_token.rb",
     "examples/your_account.rb",
     "Gemfile",
-    "Gemfile.lock",
     "lib/aweber.rb",
     "lib/aweber/base.rb",
     "lib/aweber/collection.rb",
